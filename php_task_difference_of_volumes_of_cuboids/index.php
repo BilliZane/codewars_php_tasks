@@ -9,4 +9,5 @@
     return $arrProd2 - $arrProd1;
   }
 
-echo findDifference([3, 2, 5], [1, 4, 4]);
+  echo findDifference([3, 2, 5], [1, 4, 4]);
+?>
